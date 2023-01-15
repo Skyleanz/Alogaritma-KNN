@@ -34,7 +34,17 @@ library(mlr3)
 library(mlr3learners)
 library(mlr3tuning)
 library(paradox)
+library(readr)
 ```
-data_diabetes <- read.csv("diabetes.csv,stringsAsFactors = TRUE) head(data_diabetes)
+
+
+
+
+
+
+
+
+
+
 
 # Referensi 
